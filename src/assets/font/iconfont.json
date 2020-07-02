@@ -1,0 +1,16 @@
+{
+  "id": "1897483",
+  "name": "常用icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "122690",
+      "name": "Category",
+      "font_class": "category",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    }
+  ]
+}
